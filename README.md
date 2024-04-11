@@ -5,6 +5,7 @@ Ever wanted to lose the privacy part of mining XMR? Well now you can share the f
 - Total mined hashes in RPC
 - Idling in RPC when xmrig.exe is not found
 - Automatically hides to system tray
+- Linux Support, this is a version that doesn't have a UI so it can be used on other systems than Windows! https://github.com/whoswhip/XMRigRPC/tree/linux
 
 ## Supported Pools
 SupportXMR.com Only!
