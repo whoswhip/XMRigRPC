@@ -12,4 +12,5 @@ SupportXMR.com Only!
 ## Screenshots
 ![PDTRES3Py73FvmEPHnaO61281](https://github.com/whoswhip/XMRigRPC/assets/124531971/36786ab0-66b4-4475-8d98-8f7ad6c9d4bf)
 ![bRdgD6v7T19VZsuqBBkc51966](https://github.com/whoswhip/XMRigRPC/assets/124531971/2c1e4268-08c0-471c-ab3b-08825944e7b1)
-![QkuIl5HQDx4CyuRYMxcb22431](https://github.com/whoswhip/XMRigRPC/assets/124531971/556addcf-1203-4f84-aa01-fb098e109d39)
+![d0eyXppKZmG0r0TcnyIA53456](https://github.com/whoswhip/XMRigRPC/assets/124531971/254c74c0-e7dc-4c1b-92cd-11648629ac00)
+
