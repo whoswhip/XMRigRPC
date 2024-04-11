@@ -1,0 +1,7 @@
+F:\Media\Projects\XMRIG RPC Builds\Portable v1.0\SupportXMR RPC.exe
+F:\Media\Projects\XMRIG RPC Builds\Portable v1.0\SupportXMR RPC.dll
+F:\Media\Projects\XMRIG RPC Builds\Portable v1.0\SupportXMR RPC.deps.json
+F:\Media\Projects\XMRIG RPC Builds\Portable v1.0\SupportXMR RPC.runtimeconfig.json
+F:\Media\Projects\XMRIG RPC Builds\Portable v1.0\SupportXMR RPC.pdb
+F:\Media\Projects\XMRIG RPC Builds\Portable v1.0\DiscordRPC.dll
+F:\Media\Projects\XMRIG RPC Builds\Portable v1.0\Newtonsoft.Json.dll

@@ -1,0 +1,20 @@
+F:\Pwojecct\SupportXMR RPC\SupportXMR RPC\bin\Debug\net8.0-windows\SupportXMR RPC.exe
+F:\Pwojecct\SupportXMR RPC\SupportXMR RPC\bin\Debug\net8.0-windows\SupportXMR RPC.deps.json
+F:\Pwojecct\SupportXMR RPC\SupportXMR RPC\bin\Debug\net8.0-windows\SupportXMR RPC.runtimeconfig.json
+F:\Pwojecct\SupportXMR RPC\SupportXMR RPC\bin\Debug\net8.0-windows\SupportXMR RPC.dll
+F:\Pwojecct\SupportXMR RPC\SupportXMR RPC\bin\Debug\net8.0-windows\SupportXMR RPC.pdb
+F:\Pwojecct\SupportXMR RPC\SupportXMR RPC\bin\Debug\net8.0-windows\DiscordRPC.dll
+F:\Pwojecct\SupportXMR RPC\SupportXMR RPC\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+F:\Pwojecct\SupportXMR RPC\SupportXMR RPC\obj\Debug\net8.0-windows\SupportXMR RPC.csproj.AssemblyReference.cache
+F:\Pwojecct\SupportXMR RPC\SupportXMR RPC\obj\Debug\net8.0-windows\SupportXMR_RPC.Form1.resources
+F:\Pwojecct\SupportXMR RPC\SupportXMR RPC\obj\Debug\net8.0-windows\SupportXMR RPC.csproj.GenerateResource.cache
+F:\Pwojecct\SupportXMR RPC\SupportXMR RPC\obj\Debug\net8.0-windows\SupportXMR RPC.GeneratedMSBuildEditorConfig.editorconfig
+F:\Pwojecct\SupportXMR RPC\SupportXMR RPC\obj\Debug\net8.0-windows\SupportXMR RPC.AssemblyInfoInputs.cache
+F:\Pwojecct\SupportXMR RPC\SupportXMR RPC\obj\Debug\net8.0-windows\SupportXMR RPC.AssemblyInfo.cs
+F:\Pwojecct\SupportXMR RPC\SupportXMR RPC\obj\Debug\net8.0-windows\SupportXMR RPC.csproj.CoreCompileInputs.cache
+F:\Pwojecct\SupportXMR RPC\SupportXMR RPC\obj\Debug\net8.0-windows\SupportXMR RPC.csproj.CopyComplete
+F:\Pwojecct\SupportXMR RPC\SupportXMR RPC\obj\Debug\net8.0-windows\SupportXMR RPC.dll
+F:\Pwojecct\SupportXMR RPC\SupportXMR RPC\obj\Debug\net8.0-windows\refint\SupportXMR RPC.dll
+F:\Pwojecct\SupportXMR RPC\SupportXMR RPC\obj\Debug\net8.0-windows\SupportXMR RPC.pdb
+F:\Pwojecct\SupportXMR RPC\SupportXMR RPC\obj\Debug\net8.0-windows\SupportXMR RPC.genruntimeconfig.cache
+F:\Pwojecct\SupportXMR RPC\SupportXMR RPC\obj\Debug\net8.0-windows\ref\SupportXMR RPC.dll
