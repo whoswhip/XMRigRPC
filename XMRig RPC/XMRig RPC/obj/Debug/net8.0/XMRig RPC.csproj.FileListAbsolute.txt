@@ -1,0 +1,18 @@
+F:\Pwojecct\XMRig RPC\XMRig RPC\bin\Debug\net8.0\XMRig RPC.exe
+F:\Pwojecct\XMRig RPC\XMRig RPC\bin\Debug\net8.0\XMRig RPC.deps.json
+F:\Pwojecct\XMRig RPC\XMRig RPC\bin\Debug\net8.0\XMRig RPC.runtimeconfig.json
+F:\Pwojecct\XMRig RPC\XMRig RPC\bin\Debug\net8.0\XMRig RPC.dll
+F:\Pwojecct\XMRig RPC\XMRig RPC\bin\Debug\net8.0\XMRig RPC.pdb
+F:\Pwojecct\XMRig RPC\XMRig RPC\bin\Debug\net8.0\DiscordRPC.dll
+F:\Pwojecct\XMRig RPC\XMRig RPC\bin\Debug\net8.0\Newtonsoft.Json.dll
+F:\Pwojecct\XMRig RPC\XMRig RPC\obj\Debug\net8.0\XMRig RPC.csproj.AssemblyReference.cache
+F:\Pwojecct\XMRig RPC\XMRig RPC\obj\Debug\net8.0\XMRig RPC.GeneratedMSBuildEditorConfig.editorconfig
+F:\Pwojecct\XMRig RPC\XMRig RPC\obj\Debug\net8.0\XMRig RPC.AssemblyInfoInputs.cache
+F:\Pwojecct\XMRig RPC\XMRig RPC\obj\Debug\net8.0\XMRig RPC.AssemblyInfo.cs
+F:\Pwojecct\XMRig RPC\XMRig RPC\obj\Debug\net8.0\XMRig RPC.csproj.CoreCompileInputs.cache
+F:\Pwojecct\XMRig RPC\XMRig RPC\obj\Debug\net8.0\XMRig RPC.csproj.CopyComplete
+F:\Pwojecct\XMRig RPC\XMRig RPC\obj\Debug\net8.0\XMRig RPC.dll
+F:\Pwojecct\XMRig RPC\XMRig RPC\obj\Debug\net8.0\refint\XMRig RPC.dll
+F:\Pwojecct\XMRig RPC\XMRig RPC\obj\Debug\net8.0\XMRig RPC.pdb
+F:\Pwojecct\XMRig RPC\XMRig RPC\obj\Debug\net8.0\XMRig RPC.genruntimeconfig.cache
+F:\Pwojecct\XMRig RPC\XMRig RPC\obj\Debug\net8.0\ref\XMRig RPC.dll
