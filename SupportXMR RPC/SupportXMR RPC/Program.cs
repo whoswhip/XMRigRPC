@@ -93,9 +93,10 @@ namespace SupportXMR_RPC
                 while (true)
                 {
                     //Debug.WriteLine("Updated!");
+                    address = File.ReadAllText("address.txt");
                     await Hash();
                     await UpdatePresence();
-                    await Task.Delay(5000);
+                    await Task.Delay(1750);
                 }
             }
             else
@@ -103,17 +104,18 @@ namespace SupportXMR_RPC
                 while (true)
                 {
                     //Debug.WriteLine("Updated!");
+                    address = File.ReadAllText("address.txt");
                     await Hash();
                     await UpdatePresence();
-                    await Task.Delay(5000);
+                    await Task.Delay(1750);
                 }
             }
 
         }
 
-        public async Task<long> Hash()
+        public async Task<string> Hash()
         {
-            long totalHashes = 0;
+            string formattedHashes = "";
 
             using (HttpClient httpClient = new HttpClient())
             {
@@ -122,26 +124,29 @@ namespace SupportXMR_RPC
 
                 JsonDocument document = JsonDocument.Parse(jsonResponse);
                 JsonElement root = document.RootElement;
-                totalHashes = root.GetProperty("totalHashes").GetInt64();
+                long totalHashes = root.GetProperty("totalHashes").GetInt64();
+                formattedHashes = totalHashes.ToString("N0");
+                //Debug.WriteLine(formattedHashes);
                 //Debug.WriteLine(totalHashes);
                 //Debug.WriteLine(url);
             }
 
-            return totalHashes;
+            return formattedHashes;
         }
 
         private async Task UpdatePresence()
         {
             using (HttpClient httpClient = new HttpClient())
             {
-                long totalHashes = await Hash();
+                string formattedHashes = await Hash();
+                //Debug.WriteLine(formattedHashes);
                 bool isXmrigRunning = Process.GetProcessesByName("xmrig").Length > 0;
                 if (isXmrigRunning)
                 {
                     client.SetPresence(new RichPresence()
                     {
                         Details = "Mining XMR",
-                        State = "Mined Hashes: " + totalHashes,
+                        State = "Mined Hashes: " + formattedHashes,
                         Timestamps = currentTimestamp,
                         Assets = new Assets()
                         {
